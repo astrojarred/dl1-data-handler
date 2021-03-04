@@ -1,0 +1,12 @@
+- inputs:
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855600_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855601_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855602_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855603_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855604_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855605_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855606_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855607_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855608_S_w0.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/MC/superstar_withCharge/GA_za05to35_8_855609_S_w0.root"
+  target: 'GA_za05to35_8_S_w0.h5'
