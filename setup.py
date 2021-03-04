@@ -9,7 +9,7 @@ setup(name='dl1_data_handler',
       license='MIT',
       packages=['dl1_data_handler'],
       install_requires=[
-          'ctapipe==0.10.3',
+          'ctapipe==0.9.1',
           'pytest-cov',
           'pyirf',
           ],
