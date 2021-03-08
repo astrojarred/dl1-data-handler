@@ -1,0 +1,5 @@
+- inputs:
+    - "/astri01/data1/gershon/MAGIC/DL/crab/superstar/20180817_05074612_S_CrabNebula-W0.40+035.root"
+    - "/astri01/data1/gershon/MAGIC/DL/crab/superstar/20180817_05074613_S_CrabNebula-W0.40+215.root"
+  target: 'GA_za05to35_8_05074612-05074613_S_w0.h5'
+  
